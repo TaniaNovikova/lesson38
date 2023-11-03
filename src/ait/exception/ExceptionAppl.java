@@ -47,6 +47,14 @@ To stir the tiniest feather!
 Yet what can one poor voice avail
 Against three tongues together?
 
+“Will you walk a little faster?” said a whiting to a snail.
+“There’s a porpoise close behind us, and he’s treading on my tail.
+See how eagerly the lobsters and the turtles all advance!
+They are waiting on the shingle—will you come and join the dance?
+     Will you, won’t you, will you, won’t you, will you join the dance?
+     Will you, won’t you, will you, won’t you, won’t you join the dance?
+     nnnn
+slfisi*commit
 
 
 */
